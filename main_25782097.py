@@ -29,7 +29,7 @@ def tampilkan_menu():
 # =========================
 def hostname_factory(kode_lokasi):
     """
-    Membuat fungsi generator hostname berbasis lokasi
+    Membuat fungsi generator hostname berbasis lokasi.
 
     Args:
         kode_lokasi (str): Kode lokasi (contoh: GKB)
